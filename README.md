@@ -16,7 +16,7 @@ recomp-net and refused to configure without it.
 ## What moved to recomp-net
 
 Everything that compares against a peer. These now live in
-[`recomp-net`](https://github.com/RetroPortingToolKit/recomp-net) beside the
+[`recomp-net`](https://github.com/magnopaz/recomp-net) beside the
 session and the episode FSM they serve:
 
 | Was (rbengine) | Now (recomp-net) |
